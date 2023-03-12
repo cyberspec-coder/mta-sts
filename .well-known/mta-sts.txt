@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: *.cyberspective.ca
+mx: cyberspective-ca.mail.protection.outlook.com
+max_age: 604800
